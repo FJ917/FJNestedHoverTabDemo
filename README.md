@@ -1,6 +1,5 @@
 
-
-> 栗子——TabLayout+ViewPager滑动吸顶悬停
+> ###栗子——TabLayout+ViewPager滑动吸顶悬停
 
 ---
 
@@ -118,7 +117,6 @@ Toolbar在v7包中，设置`layout_collapseMode`协调`CollapsingToolbarLayout`�
 
 
 > ### 总结
-
 > **这是Android提供的一种炫酷组合控件~顶部的图片可以换成任意的View，比如Banner图等。**
 
 ---
